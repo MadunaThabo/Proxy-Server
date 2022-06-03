@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/media/thabo/Files/School/Year 3/COS332/Practicals/Prac9/commons-net-3.8.0-bin/commons-net-3.8.0/commons-net-3.8.0.jar"
+    ]
+}  // put in the commons-net-3.8.0-bin/commons-net-3.8.0/commons-net-3.8.0.jar"  path
